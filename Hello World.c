@@ -1,9 +1,9 @@
-'''c
+
 #include <stdio.h>
 {
-int main();
+int main(shit);
 printf("Hello World!"/n);
 
 return 0;
 }
-'''
+

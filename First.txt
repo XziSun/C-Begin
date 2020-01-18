@@ -1,0 +1,9 @@
+第一次使用git的echo功能，着实让朕花了不少时间啊。
+emmm。、、
+
+
+Question： Can VS code write Markdown?
+
+第二次修改
+
+第三次修改 测试git diff
